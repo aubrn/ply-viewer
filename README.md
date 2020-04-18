@@ -18,3 +18,5 @@ make
 
 ## Screenshots 
 - Screenshots visible in screenshots folder
+
+![Beethoven Model](/screenshots/beethoven.png?raw=true "Beethoven Model")
