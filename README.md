@@ -1,6 +1,8 @@
 A basic .ply model viewer made to experiment with OpenGL. Supports basic ASCII based .ply files, examples included.
-[PLY File Info](https://en.wikipedia.org/wiki/PLY_(file_format))
-[PLY File Specification](http://paulbourke.net/dataformats/ply/)
+
+- [PLY File Info](https://en.wikipedia.org/wiki/PLY_(file_format))
+
+- [PLY File Specification](http://paulbourke.net/dataformats/ply/)
 
 
 ## Compiling 
